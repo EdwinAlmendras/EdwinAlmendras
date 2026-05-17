@@ -27,5 +27,3 @@ I am currently open to **Freelance** and **Contract** work. My ideal projects in
 * **Bot Creation:** Need to automate a repetitive task or monitor a system?
 
 **Let's solve your problem.**
-
-📫 **Contact me:** ealmfr@gmail.com
